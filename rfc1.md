@@ -1,4 +1,4 @@
-# Hacker::8R - RFC 1.
+# Hacker::BR - RFC 1.
 
 ## Considerations
 
@@ -23,7 +23,7 @@
     3. Society 
 5. Actions
     1. Education
-		2. Exercising the evolution and freedom
+    2. Exercising the evolution and freedom
 
 ## Education
 1. Learning to learn
@@ -73,19 +73,11 @@ Tech professionals suffer oppressions also, maybe more than normal professionals
 
 Education is the main action for achieving the goals, so let's present the 3 points from educator Paulo Freire, linking the anthropology of the oppressed with a method to teach.
 
----------------------------------------------------------------
-| * Anthropology                     |  * Method              |
----------------------------------------------------------------
+| Anthropology                       |  Method                |
+| ---------------------------------  | ---------------------- |
 | 1 - to be curious (fundamental)    | 1 - Reading the world  |
----------------------------------------------------------------
-| 2 - be unfinished, incomplete,     | 2 - Thematization      |
-| (needs the other)                  | (what people know)     |
----------------------------------------------------------------
-| 3 - being connective, sharing      | 3 - Problematization   | 
-| with the other the transformation  | (Philosophy/Awareness) |
-| of the world (evolution of the     |                        |
-| human being)                       |                        |
----------------------------------------------------------------
+| 2 - be unfinished, incomplete,   (needs the other)   | 2 - Thematization   (what people know)    |
+| 3 - being connective, sharing with the other the transformation of the world (evolution of the human being)  | 3 - Problematization  (Philosophy/Awareness) | 
 
 Paulo Freire warns about the importance of the practice, so learning must be done on living process and studying day-to-day activities.
 
