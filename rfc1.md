@@ -12,8 +12,9 @@
         - Modify
 
 2. Inclusion
-    2. Collective
-    2. Society Organization
+    - Collective
+    - Society Organization
+    
 3. Diversity
 
 ### Means
