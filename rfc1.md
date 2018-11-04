@@ -73,7 +73,7 @@ The oppression drives the society evolution.
 The oppressed is always invisible, excluded. Every individual feels some oppression. 
 Tech professionals suffer oppressions also, maybe more than normal professionals.
 
-Education is the main action for achieving the goals, so let's present the 3 points from educator Paulo Freire, linking the anthropology of the oppressed with a method to teach.
+Education is the main action for achieving the goals, so let's present the 3 points from educator Paulo Freire, linking the anthropology of the oppressed with a method of teaching.
 
 | Anthropology                       |  Method                |
 | ---------------------------------  | ---------------------- |
