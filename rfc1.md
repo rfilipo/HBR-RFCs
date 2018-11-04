@@ -20,7 +20,7 @@
 ### Means
 4. Concepts
     1. Edge of influence
-    2. Mens of production
+    2. Means of production
     3. Society 
 5. Actions
     1. Education
