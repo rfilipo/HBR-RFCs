@@ -94,8 +94,8 @@ The results of the education will be consolidated when the individual exercises 
 # Liberty
 
 Liberty is a matter of exercising needings and desires. It's an individual issue.
-The importance of individuality must be noted, so we could understand each problem and need driving the society.
-The importance of connectivity between the individuals must be noted, so each issue could be shared and solved in cooperative.
+The importance of individuality must be noted, so we could understand each problem and needing that drive the society.
+The importance of connectivity between the individuals must be noted, so each issue could be shared and solved in a cooperative way.
 We live in a society under transformation and the abbility to share the transformations will permit the liberty.
 
 # Freedoms
