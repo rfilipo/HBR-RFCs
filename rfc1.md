@@ -1,4 +1,4 @@
-# Hacker::BR - RFC 1.
+# Hacking::BR - RFC 1.
 
 ## Considerations
 
