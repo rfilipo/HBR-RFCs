@@ -30,7 +30,8 @@
 1. Learning to learn
 2. Learning to live together
 3. Learning to do
-4. Why learn
+4. Learning to be
+5. Why learn
 
 ## Members Metadata
 6. Evolution	
